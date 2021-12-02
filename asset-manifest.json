@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MiniMinecraft/static/css/main.75f3cb1c.chunk.css",
+    "main.js": "/MiniMinecraft/static/js/main.9bbf2bf9.chunk.js",
+    "main.js.map": "/MiniMinecraft/static/js/main.9bbf2bf9.chunk.js.map",
+    "runtime-main.js": "/MiniMinecraft/static/js/runtime-main.cbea2565.js",
+    "runtime-main.js.map": "/MiniMinecraft/static/js/runtime-main.cbea2565.js.map",
+    "static/js/2.4b713a27.chunk.js": "/MiniMinecraft/static/js/2.4b713a27.chunk.js",
+    "static/js/2.4b713a27.chunk.js.map": "/MiniMinecraft/static/js/2.4b713a27.chunk.js.map",
+    "static/js/3.1c54bcc0.chunk.js": "/MiniMinecraft/static/js/3.1c54bcc0.chunk.js",
+    "static/js/3.1c54bcc0.chunk.js.map": "/MiniMinecraft/static/js/3.1c54bcc0.chunk.js.map",
+    "index.html": "/MiniMinecraft/index.html",
+    "static/css/main.75f3cb1c.chunk.css.map": "/MiniMinecraft/static/css/main.75f3cb1c.chunk.css.map",
+    "static/js/2.4b713a27.chunk.js.LICENSE.txt": "/MiniMinecraft/static/js/2.4b713a27.chunk.js.LICENSE.txt",
+    "static/media/axe.9fbbc709.glb": "/MiniMinecraft/static/media/axe.9fbbc709.glb"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbea2565.js",
+    "static/js/2.4b713a27.chunk.js",
+    "static/css/main.75f3cb1c.chunk.css",
+    "static/js/main.9bbf2bf9.chunk.js"
+  ]
+}
